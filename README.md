@@ -1,4 +1,4 @@
-# 🏥 醫療保費預測機器學習專案 (Health Insurance Cost Predictor)
+# 🏥 醫療保費預測機器學習 (From Data to Dollars---Predicting Insurance Charges)
 
 本專案旨在利用機器學習模型，透過客戶的個人健康特徵（如年齡、BMI、是否抽菸等）來預測其醫療保險費用，進而協助保險公司進行精準定價與風險評估。
 
